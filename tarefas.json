@@ -1,0 +1,49 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "titulo": "Configurar servidor em nuvem",
+      "status": "concluída",
+      "criada_em": "2026-07-15T14:03:43.953941"
+    },
+    {
+      "id": 2,
+      "titulo": "Desenvolver o layout do protótipo",
+      "status": "pendente",
+      "criada_em": "2026-07-15T14:03:43.953958"
+    },
+    {
+      "id": 5,
+      "titulo": "Testar sistema de notificações",
+      "status": "pendente",
+      "criada_em": "2026-07-15T14:04:18.357113"
+    },
+    {
+      "id": 6,
+      "titulo": "2",
+      "status": "pendente",
+      "criada_em": "2026-07-15T14:05:07.300305"
+    },
+    {
+      "id": 7,
+      "titulo": "Nova tarefa",
+      "status": "pendente"
+    },
+    {
+      "id": 8,
+      "titulo": "Testar sistema",
+      "status": "pendente"
+    },
+    {
+      "id": 9,
+      "titulo": "Testar sistema",
+      "status": "pendente"
+    },
+    {
+      "id": 10,
+      "titulo": "Testar sistema",
+      "status": "pendente"
+    }
+  ],
+  "proximo_id": 11
+}
